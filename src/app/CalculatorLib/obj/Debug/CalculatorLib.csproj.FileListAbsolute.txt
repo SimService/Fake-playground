@@ -1,0 +1,10 @@
+E:\Fake\FAKE-Calculator\FAKE-Calculator\test\CalculatorLib.dll
+E:\Fake\FAKE-Calculator\FAKE-Calculator\test\CalculatorLib.pdb
+E:\Fake\FAKE-Calculator\FAKE-Calculator\src\app\CalculatorLib\obj\Debug\CalculatorLib.csprojResolveAssemblyReference.cache
+E:\Fake\FAKE-Calculator\FAKE-Calculator\src\app\CalculatorLib\obj\Debug\CalculatorLib.dll
+E:\Fake\FAKE-Calculator\FAKE-Calculator\src\app\CalculatorLib\obj\Debug\CalculatorLib.pdb
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\test\CalculatorLib.dll
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\test\CalculatorLib.pdb
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\src\app\CalculatorLib\obj\Debug\CalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\src\app\CalculatorLib\obj\Debug\CalculatorLib.dll
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\src\app\CalculatorLib\obj\Debug\CalculatorLib.pdb

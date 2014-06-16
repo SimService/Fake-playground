@@ -1,0 +1,10 @@
+E:\Fake\FAKE-Calculator\FAKE-Calculator\test\NUnit.Test.CalculatorLib.dll
+E:\Fake\FAKE-Calculator\FAKE-Calculator\test\NUnit.Test.CalculatorLib.pdb
+E:\Fake\FAKE-Calculator\FAKE-Calculator\src\test\Test.CalculatorLib\obj\Debug\NUnit.Test.CalculatorLib.csprojResolveAssemblyReference.cache
+E:\Fake\FAKE-Calculator\FAKE-Calculator\src\test\Test.CalculatorLib\obj\Debug\NUnit.Test.CalculatorLib.dll
+E:\Fake\FAKE-Calculator\FAKE-Calculator\src\test\Test.CalculatorLib\obj\Debug\NUnit.Test.CalculatorLib.pdb
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\test\NUnit.Test.CalculatorLib.dll
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\test\NUnit.Test.CalculatorLib.pdb
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\src\test\Test.CalculatorLib\obj\Debug\NUnit.Test.CalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\src\test\Test.CalculatorLib\obj\Debug\NUnit.Test.CalculatorLib.dll
+C:\Users\mauu\Documents\testcode\FAKE-Calculator\src\test\Test.CalculatorLib\obj\Debug\NUnit.Test.CalculatorLib.pdb
