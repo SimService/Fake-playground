@@ -1,0 +1,2 @@
+/home/maov/code/Fake-playground/build/CalculatorLib.dll
+/home/maov/code/Fake-playground/src/app/CalculatorLib/obj/Release/CalculatorLib.dll

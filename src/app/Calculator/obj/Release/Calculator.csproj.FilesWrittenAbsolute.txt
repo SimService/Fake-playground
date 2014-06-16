@@ -1,0 +1,2 @@
+/home/maov/code/Fake-playground/build/Calculator.exe
+/home/maov/code/Fake-playground/src/app/Calculator/obj/Release/Calculator.exe
